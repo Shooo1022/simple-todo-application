@@ -35,7 +35,7 @@ function addTask(title) {
  * 
  * 例:
  * before   |   after
- * --------------------
+ * -------------------
  * true     |   false
  * false    |   true
  */
